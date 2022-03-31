@@ -9,4 +9,4 @@ Untuk membuat dropdown dan listbox saya menggunakan element <select> untuk menam
 
 1. praktik nya
 membuat dokumen HTML terlebih dahulu,
-![img]screenshot/kodelist.png
+![Gambar 1](screenshot/kodelist.png)
