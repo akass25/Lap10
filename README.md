@@ -14,3 +14,4 @@ membuat dokumen HTML terlebih dahulu,
 Hasil dari program
 
 ! [gambar 4](screenshot/ss4.png)
+![gambar](screenshot/ss10.png)
